@@ -1,0 +1,22 @@
+The working process of this project are explained here:
+
+1. Execute main.py
+
+2. main.py consists of two parts : 
+	one which stores the tweets in form of ua.csv.
+	other one which converts the csv to json.
+
+
+Explanation
+-----------------
+1) 	I have included twitter API to have access to twitter. 
+2) 	Then I have initiated rules. 
+3) 	The rules are to check the most retweeted tweets in english and non-english on the #corona
+4)	Appropriate tweets in english is stored in csv which is converted to json
+5)	Similarly for non-english tweets
+
+I have attached my screenshots for your presonal convinience. 
+
+THANK YOU
+
+	
